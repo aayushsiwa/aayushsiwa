@@ -7,7 +7,7 @@
 
 - 💪🏼 Working on something cool.
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **ReactJs**
 
 <!-- - 💬 Ask me about **Reactjs** -->
 
