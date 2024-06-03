@@ -1,24 +1,28 @@
-### Hi there 👋
+## Hi there 👋, I am Aayush
 
+<!-- ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Aayush%20Siwach&width=900&height=400) -->
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Aayush%20Siwach&width=900&height=400)
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=aayushsiwa&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> -->
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=aayushsiwa&theme=matrix&column=6&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
+### Connect with me:
 
-- 💪🏼 Working on something cool.
+<p align="center">
 
-- 🌱 I’m currently learning **ReactJs**
+<a href="https://github.com/aayushsiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="profile-radme-generator" height="30" width="40" /></a> <a href="https://instagram.com/siwaaayush7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="profile-radme-generator" height="30" width="40" /></a>
 
-<!-- - 💬 Ask me about **Reactjs** -->
+</p>
 
-<!-- <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://github.com/aayushsiwa" target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg alt="profile-radme-generator" height="30" width="40" /></a> </p> -->
+### Skills:
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.djangoproject.com/ target="_blank" rel="noreferrer"> <img src=https://cdn.worldvectorlogo.com/logos/django.svg alt="android" width="40" height="40"/> </a> <a href=https://firebase.google.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://flask.palletsprojects.com/ target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src='https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,svelte,react,next,flask,django,nodejs,ts,js,postgres,mysql' alt="icon" />
+</p>
 
+<p align = "center">
 
+<img width="700" src="https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aayushsiwa&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for Ritvi" width="700">
 
-
-
-<img align="right" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&theme=dark&hide_border=false" alt="profile-radme-generator" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&theme=dark&size_weight=0&count_weight=1&langs_count=20&layout=compact" alt="profile-radme-generator" width="700" />
+</p>
