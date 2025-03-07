@@ -22,7 +22,7 @@
 
 <img width="700" src="https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aayushsiwa)](https://git.io/streak-stats) 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aayushsiwa&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for aayushsiwa" width="700">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&theme=dark&size_weight=0&count_weight=1&langs_count=20&layout=compact" alt="profile-radme-generator" width="700" />
 </p>
