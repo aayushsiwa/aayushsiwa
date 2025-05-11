@@ -2,7 +2,9 @@
 
 > Full-stack developer and tech enthusiast passionate about creating innovative solutions
 
-<img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-aayushsiwa&label=visitors&color=grey&style=flat" />
+<!-- <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-aayushsiwa&label=visitors&color=grey&style=flat" /> -->
+![](https://komarev.com/ghpvc/?username=aayushsiwa&label=visitors&color=0e75b6)
+
 
 ### 🔗 Connect with me
 
@@ -98,9 +100,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-![](https://komarev.com/ghpvc/?username=aayushsiwa&label=visitors&color=0e75b6)
-
 <!-- <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> -->
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
