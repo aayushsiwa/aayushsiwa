@@ -1,19 +1,22 @@
 # 👋 Hi there, I'm Aayush
+
 > Full-stack developer and tech enthusiast passionate about creating innovative solutions
 
 <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-aayushsiwa&label=visitors&color=grey&style=flat" />
 
 ### 🔗 Connect with me
-[![Website](https://img.shields.io/badge/Website-05122A?style=flat&logo=safari)](https://aayushsiwa.is-a.dev)
-[![Blog](https://img.shields.io/badge/Blog-05122A?style=flat&logo=hashnode)](https://blog.aayushsiwa.is-a.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/siwaaayush7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/aayushsiwa)
-[![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord)](https://discordapp.com/users/1189201131461672981)
-[![Gmail](https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail)](mailto:aayush@mail.aayushsiwa.is-a.dev)
+
+[![Website](https://img.shields.io/badge/Website-3b6723?style=flat)](https://aayushsiwa.is-a.dev)
+[![Blog](https://img.shields.io/badge/Blog-145efb?style=flat)](https://blog.aayushsiwa.is-a.dev)
+[![Instagram](https://img.shields.io/badge/siwaaayush7-ee2388?style=flat&logo=instagram)](https://instagram.com/siwaaayush7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin)](https://linkedin.com/in/aayushsiwa)
+[![Discord](https://img.shields.io/badge/aayushsiwa-000000?style=flat&logo=discord)](https://discordapp.com/users/1189201131461672981)
+[![Gmail](https://img.shields.io/badge/Email-d9a203?style=flat&logo=gmail)](mailto:aayush@mail.aayushsiwa.is-a.dev)
 
 ### 💻 Tech Stack
 
 #### Frontend Development
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
@@ -27,6 +30,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 #### Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
@@ -35,6 +39,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 #### Databases & Cloud
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
@@ -44,6 +49,7 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud)
 
 #### DevOps & Tools
+
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
@@ -54,6 +60,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 #### Systems & Hardware
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
@@ -63,11 +70,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 
 ### 📊 GitHub Statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&bg_color=05122A&text_color=ffffff&hide_border=true" width="100%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&layout=compact&title_color=f69673&bg_color=05122A&text_color=ffffff&hide_border=true" width="100%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsiwa&background=05122A&stroke=1b93c9&ring=f69673&fire=f69673&currStreakNum=ffffff&sideNums=f69673&currStreakLabel=f69673&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=aayushsiwa&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- ### 📌 Featured Projects -->
@@ -91,6 +100,7 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=aayushsiwa&label=visitors&color=0e75b6)
+
 <!-- <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> -->
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
