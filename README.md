@@ -3,8 +3,8 @@
 > Full-stack developer and tech enthusiast passionate about creating innovative solutions
 
 <!-- <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-aayushsiwa&label=visitors&color=grey&style=flat" /> -->
-![](https://komarev.com/ghpvc/?username=aayushsiwa&label=visitors&color=0e75b6)
 
+![](https://komarev.com/ghpvc/?username=aayushsiwa&label=visitors&color=0e75b6)
 
 ### 🔗 Connect with me
 
@@ -73,9 +73,10 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&bg_color=05122A&text_color=ffffff&hide_border=true" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&layout=compact&title_color=f69673&bg_color=05122A&text_color=ffffff&hide_border=true" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsiwa&background=05122A&stroke=1b93c9&ring=f69673&fire=f69673&currStreakNum=ffffff&sideNums=f69673&currStreakLabel=f69673&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+![](https://github-readme-stats.vercel.app/api?username=aayushsiwa&show_icons=true&count_private=true&title_color=f69673&icon_color=1b93c9&bg_color=05122A&text_color=ffffff&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayushsiwa&background=05122A&stroke=1b93c9&ring=f69673&fire=f69673&currStreakNum=ffffff&sideNums=f69673&currStreakLabel=f69673&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsiwa&layout=compact&title_color=f69673&bg_color=05122A&text_color=ffffff&hide_border=true)
 
 ### 🏆 GitHub Trophies
 
@@ -100,6 +101,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 <!-- <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a> -->
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
